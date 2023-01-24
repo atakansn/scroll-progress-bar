@@ -2,7 +2,7 @@
 # Javascript and Css Scroll Progress Bar
 
 
-# ![](https://media.giphy.com/media/d1vS1uBogtX01tHIvT/giphy.gif)
+# ![](https://media.giphy.com/media/VGVg48h3OAZ3d1HKNG/giphy.gif)
 
 ## Deployment
 
